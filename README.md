@@ -11,8 +11,3 @@ I’m a Frontend developer passionate about learning and building clean, efficie
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineering, Frontend engineering (Intern or Junior level).
 - 📫 How to reach me; feel free to mail me at olapraiseola@gmail.com.
-
----
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=oladimejipraise&show_icons=true&include_all_commits=true&hide_border=true" alt="oladimejipraise's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oladimejipraise&langs_count=8&layout=compact&hide_border=true" alt="oladimejipraise's GitHub stats" /> |
-| ------------- | ------------- |
